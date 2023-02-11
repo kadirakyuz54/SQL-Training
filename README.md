@@ -1,1 +1,2 @@
-# SQL repository contains SQL training.
+# SQL Repository
+This repository contains a sql training from datacamp.
